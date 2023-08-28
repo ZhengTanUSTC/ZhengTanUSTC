@@ -6,9 +6,6 @@ I studied OR&MS at CLaS Lab/IDEA Lab, University of Science and Technology of Ch
 💡 Interests:
 I have a strong interest in Distributional Robust Optimization and its applications on Machine Learning.
 
-📫 Connect with Me:
-Let's connect! You can reach me through:
-
 📧 Email: tangle@mail.ustc.edu.cn
 
 <!---
