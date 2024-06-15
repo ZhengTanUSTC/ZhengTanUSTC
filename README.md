@@ -6,7 +6,7 @@ I studied OR&MS as a PhD student in CLaS Lab, University of Science and Technolo
 💡 Interests:
 I have a strong interest in Distributional Robust Optimization (DRO) and its applications on Machine Learning, and recently I am working on a project concerning load-balanced online packing.
 
-📧 Email: tangle@mail.ustc.edu.cn
+📧 Email: ztangle9@gmail.com
 
 <!---
 ZhengTanUSTC/ZhengTanUSTC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
